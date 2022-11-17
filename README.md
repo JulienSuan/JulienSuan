@@ -9,9 +9,9 @@
 
 <br />
 <br />
-<br /><br />
 <br />
-<h3 align="left">My skills</h3>
+<br />
+<h1 align="left">My skills</h1>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,git,jquery,nodejs)](https://skills.thijs.gg)
 <img align="right" alt="test" align="left" width="500px" src="https://cdn.shopify.com/s/files/1/0003/8263/1983/files/breath_of_the_wild_pixel_art_1024x1024.gif?v=1588595336" />
