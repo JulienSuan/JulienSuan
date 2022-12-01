@@ -18,5 +18,5 @@
 ## Tasks
 ### Drink Coffee ✅
 ### VsCode installed ✅
-### Coding cool app ✨ ✅
-### Got a Job ... ❌
+### Coding cool app ✨✅
+### Got a Job ... ✅
