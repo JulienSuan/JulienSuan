@@ -12,7 +12,6 @@
 <br />
 <br />
 <h1 align="left">My skills</h1>
-<a href="https://app.daily.dev/Aslan"><img src="https://api.daily.dev/devcards/bda1fc25c5284c9b95c6f626fb480292.png?r=gsh" width="400" alt="Bigot Julien's Dev Card"/></a>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,git,jquery,nodejs)](https://skills.thijs.gg)
 <img align="right" alt="test" align="left" width="500px" src="https://cdn.shopify.com/s/files/1/0003/8263/1983/files/breath_of_the_wild_pixel_art_1024x1024.gif?v=1588595336" />
@@ -21,3 +20,5 @@
 ### VsCode installed ✅
 ### Coding cool app ✨✅
 ### Got a Job ... ✅
+
+<a href="https://app.daily.dev/Aslan"><img src="https://api.daily.dev/devcards/bda1fc25c5284c9b95c6f626fb480292.png?r=gsh" width="400" alt="Bigot Julien's Dev Card"/></a>
