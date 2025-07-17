@@ -12,6 +12,4 @@
 
 <img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg"/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSuan&layout=compact&theme=dracula&count_private=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulienSuan&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
