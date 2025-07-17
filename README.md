@@ -1,24 +1,15 @@
-# Salut ! Hi !🖐 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Welcome+to+my+Github!+💜;" alt="Typing SVG" />
+</div>
 
-<img align="left" alt="test" align="left" width="500px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8097a249957671.5a0c078a19ac4.gif" />
+#EN CONSTRUCTIOOOONNNNN !
 
-<a href="https://github.com/JulienSuan/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulienSuan&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSuan&theme=algolia&layout=compact" />
-</a>
-
-<br />
-<br />
-<br />
-<br />
-<h1 align="left">My skills</h1>
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,git,jquery,nodejs)](https://skills.thijs.gg)
-<img align="right" alt="test" align="left" width="500px" src="https://cdn.shopify.com/s/files/1/0003/8263/1983/files/breath_of_the_wild_pixel_art_1024x1024.gif?v=1588595336" />
-## Tasks
-### Drink Coffee ✅
-### VsCode installed ✅
-### Coding cool app ✨✅
-### Got a Job ... ✅
-
-<a href="https://app.daily.dev/Aslan"><img src="https://api.daily.dev/devcards/bda1fc25c5284c9b95c6f626fb480292.png?r=gsh" width="400" alt="Bigot Julien's Dev Card"/></a>
+```ts
+const me: Person = new NinjaCharacter({
+  name: "Julien",
+  age: 23,
+  skills: ["typescript", "reactjs", "nextjs", "oop", "design_pattern", "nodejs"],
+  openForWork: true,
+});
+```
+<img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg"></img>
