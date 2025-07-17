@@ -13,3 +13,11 @@
 <img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulienSuan&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JulienSuan&theme=aura&margin-w=15&rank=-C,-B,-?" alt="GitHub Trophies" />
+</a>
+
+</div>
+
