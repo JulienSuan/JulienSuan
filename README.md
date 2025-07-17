@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Welcome+to+my+Github!+💜;" alt="Typing SVG" />
 </div>
 
-#EN CONSTRUCTIOOOONNNNN !
+# EN CONSTRUCTIOOOONNNNN !
 
 ```ts
 const me: Person = new NinjaCharacter({
