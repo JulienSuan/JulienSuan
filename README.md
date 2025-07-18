@@ -88,7 +88,7 @@
 
 <img src="sleepy-sleep.gif" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 20px 0;"/>
 
-#### **`4 ans d'expérience ✨`** • **`Design Patterns Enthusiast 📚`** • **`Web Development Ninja 🥷🏻`**
+### **`4 ans d'expérience ✨`** • **`Design Patterns Enthusiast 📚`** • **`Web Development Ninja 🥷🏻`**
 ## 🚀 **Développeur Front-End passionné**
 
 <br/>
