@@ -225,7 +225,10 @@
 
 ## ```🎴 Compétences en cours d'apprentissage```
 - **Design Pattern** 
-- **Advanced Typescript** 
+- **Advanced Typescript**
+  
+<br/>
+<br/>
 
 ## 🌟 **Au-delà du code...**
 
@@ -249,12 +252,15 @@
 
 ---
 
-### 🎵 **Soundtrack de ma vie**
+### 🎵 **Soundtracks**
 > **Coding vibes:** Classical Music   
 > **Autres genres:** J-Pop • Ambient • Soft Rock  
 > **Artiste du moment:** 🤷🏻
 
 </div>
+
+<br/>
+<br/>
 
 ### 🌍 **Dreams & Goals**
 
