@@ -39,18 +39,20 @@
 ### 📫 **Connectons-nous !**
 
 <p align="center">
-  <a href="mailto:jbigot.dev@gmail.com">
+  <a href="mailto:jbigot.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/julien-bigot-903546243/">
+  <a href="https://www.linkedin.com/in/julien-bigot-903546243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discordapp.com/users/735922860249448468">
+  <a href="https://discordapp.com/users/735922860249448468" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg" style="width: 600px; height: 600px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin: 20px 0;"/>
+<a href="https://youtu.be/ikzBo9_Qdnk?list=RDGMEMCMFH2exzjBeE_zAHHJOdxgVMikzBo9_Qdnk&t=4" target="_blank">
+  <img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg" style="object-fit: cover; border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin: 20px 0;"/>
+</a>
 </div>
 <br/>
 <br/>
@@ -63,7 +65,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulienSuan&bg_color=282A36&line=BD93F9&point=FF79C6&color=F8F8F2&title_color=F8F8F2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=JulienSuan&theme=dracula&margin-w=15&rank=-C,-B,-?" alt="GitHub Trophies" />
 </a>
 </div>
