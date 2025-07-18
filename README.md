@@ -285,4 +285,12 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
-  
+
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern" x="0" y="0" width="100" height="200" patternUnits="userSpaceOnUse">
+      <image x="0" y="0" width="100" height="200"/>
+    </pattern>
+  </defs>
+</svg>
+
