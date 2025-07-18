@@ -272,3 +272,17 @@
 <img src="confuse-scar-huh.gif" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 20px 0;"/>
   
 ### Qu'attends-tu pour me contacter ?
+
+<p align="center">
+
+  <a href="mailto:jbigot.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/julien-bigot-903546243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/735922860249448468" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</p>
+  
