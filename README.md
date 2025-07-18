@@ -268,4 +268,7 @@
 > 📱 *Créer une app Monster Hunter Freedom Unite (à 100%)*  
 > 🌙 *Devenir un maître ninja évidemment!*
 
-
+<div align="center">
+<img src="confuse-scar-huh.gif" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 20px 0;"/>
+  
+### Qu'attends-tu pour me contacter ?
