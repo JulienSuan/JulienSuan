@@ -51,7 +51,7 @@
 </p>
 
 <a href="https://youtu.be/ikzBo9_Qdnk?list=RDGMEMCMFH2exzjBeE_zAHHJOdxgVMikzBo9_Qdnk&t=4" target="_blank">
-  <img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg" style="object-fit: cover; border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin: 20px 0;"/>
+  <img src="https://cdn-images.dzcdn.net/images/cover/a88dd75cd6081c23a236f81fba64ad6a/0x1900-000000-80-0-0.jpg" style="width: 700px; height: 700px;object-fit: cover; border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin: 20px 0;"/>
 </a>
 </div>
 <br/>
