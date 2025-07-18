@@ -86,7 +86,7 @@
 
 <img src="sleepy-sleep.gif" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 20px 0;"/>
 
-### **`4 ans d'expérience ✨`** • **`Design Patterns Enthusiast 📚`** • **`Web Development Ninja 🥷🏻`** <br> **`Dracula Theme Fan 🦇`** **`Clean Code Lover 💜`**
+### **`4 ans d'expérience ✨`** • **`Design Patterns Enthusiast 📚`** • **`Web Development Ninja 🥷🏻`** <br><br> **`Dracula Theme Fan 🦇`** **`Clean Code Lover 💜`**
 ## 🚀 **Développeur Front-End passionné**
 
 <br/>
