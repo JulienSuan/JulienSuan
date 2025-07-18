@@ -18,6 +18,12 @@
 </p>
 
 <br/>
+<!-- Scroll indicator stylisé -->
+<div align="center">
+  <img src="https://i2.wp.com/www.hewsongroup.com/wp-content/uploads/2017/01/scroll-down.gif?fit=300%2C300&ssl=1" width="80"/>
+</div>
+
+<br/>
 
 <!-- Section code avec titre -->
 ### 👺 **Qui suis-je en code ?**
@@ -26,12 +32,6 @@
 
 <br/>
 
-<!-- Scroll indicator stylisé -->
-<div align="center">
-  <img src="https://i2.wp.com/www.hewsongroup.com/wp-content/uploads/2017/01/scroll-down.gif?fit=300%2C300&ssl=1" width="80"/>
-</div>
-
-<br/>
 
 <div align="center" style="margin: 40px 0;">
 
