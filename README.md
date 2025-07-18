@@ -8,8 +8,6 @@
 <!-- Avatar avec style -->
 <img src="silly-scar-wink.gif" width="100" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(189, 147, 249, 0.3); margin: 20px 0; border: 3px solid #BD93F9;"/>
 
-<br/>
-
 <!-- Badges de compétences avec espacement -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -228,5 +226,40 @@
 ## ```🎴 Compétences en cours d'apprentissage```
 - **Design Pattern** 
 - **Advanced Typescript** 
-<br>
-<br>
+
+## 🌟 **Au-delà du code...**
+
+<div align="center">
+
+### 🎬 **Cinéma & Séries**
+> **Mes incontournables:** Kung Fu Panda • Lord Of The Rings • Le Dernier Samouraï  
+> **Genre favori:** Sci-Fi & Psychologique • Ninja 🥷🏻
+ 
+---
+
+### 🎌 **Univers Animé**
+> **Top 3:** Attack on Titan • The Promised NeverLand • Made In Abyss  
+> **En cours:** The Summer Hikaru Deid • Jujutsu Kaisen • Hell's Paradise  
+
+---
+
+### 🎮 **Gaming Zone**
+> **Actuellement:**  Nothing ... ( trop occupé à dev )  
+> **All-time favorites:** Outer Wilds • Zelda Wind Waker • Monster Hunter Freedom Unite  
+
+---
+
+### 🎵 **Soundtrack de ma vie**
+> **Coding vibes:** Classical Music   
+> **Autres genres:** J-Pop • Ambient • Soft Rock  
+> **Artiste du moment:** 🤷🏻
+
+</div>
+
+### 🌍 **Dreams & Goals**
+
+> 🍜 *Visiter une île particulière au Japon*  
+> 📱 *Créer une app Monster Hunter Freedom Unite (à 100%)*  
+> 🌙 *Devenir un maître ninja évidemment!*
+
+
