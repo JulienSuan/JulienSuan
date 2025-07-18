@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs" />
   </a>
 </p>
-<img src="meme.png"/>
+<img src="mememe.png"/>
 
 <p align="center"> 
   <img src="https://i2.wp.com/www.hewsongroup.com/wp-content/uploads/2017/01/scroll-down.gif?fit=300%2C300&ssl=1" width="100"/>
