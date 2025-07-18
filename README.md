@@ -5,6 +5,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs" />
   </a>
 </p>
+<img src="meme.png"/>
 
 <p align="center"> 
   <img src="https://i2.wp.com/www.hewsongroup.com/wp-content/uploads/2017/01/scroll-down.gif?fit=300%2C300&ssl=1" width="100"/>
@@ -18,6 +19,5 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=JulienSuan&theme=aura&margin-w=15&rank=-C,-B,-?" alt="GitHub Trophies" />
 </a>
-
 </div>
 
